@@ -1,0 +1,10 @@
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\bin\Debug\WindowsFormsHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\bin\Debug\WindowsFormsHandsOn.exe
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\bin\Debug\WindowsFormsHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\obj\Debug\WindowsFormsHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\obj\Debug\WindowsFormsHandsOn.Form1.resources
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\obj\Debug\WindowsFormsHandsOn.Properties.Resources.resources
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\obj\Debug\WindowsFormsHandsOn.csproj.GenerateResource.cache
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\obj\Debug\WindowsFormsHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\obj\Debug\WindowsFormsHandsOn.exe
+C:\Users\Shaan Singh\source\repos\WindowsFormsHandsOn\WindowsFormsHandsOn\obj\Debug\WindowsFormsHandsOn.pdb
