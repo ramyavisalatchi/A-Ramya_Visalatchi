@@ -1,6 +1,0 @@
-C:\Users\ramya\source\repos\HandsOn\Multithreading Sample\Multithreading Sample\obj\Debug\Multithreading Sample.csproj.CoreCompileInputs.cache
-C:\Users\ramya\source\repos\HandsOn\Multithreading Sample\Multithreading Sample\bin\Debug\Multithreading Sample.exe.config
-C:\Users\ramya\source\repos\HandsOn\Multithreading Sample\Multithreading Sample\bin\Debug\Multithreading Sample.exe
-C:\Users\ramya\source\repos\HandsOn\Multithreading Sample\Multithreading Sample\bin\Debug\Multithreading Sample.pdb
-C:\Users\ramya\source\repos\HandsOn\Multithreading Sample\Multithreading Sample\obj\Debug\Multithreading Sample.exe
-C:\Users\ramya\source\repos\HandsOn\Multithreading Sample\Multithreading Sample\obj\Debug\Multithreading Sample.pdb

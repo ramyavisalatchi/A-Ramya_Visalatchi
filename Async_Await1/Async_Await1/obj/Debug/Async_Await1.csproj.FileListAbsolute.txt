@@ -1,7 +1,0 @@
-C:\Users\ramya\source\repos\HandsOn\Async_Await1\Async_Await1\bin\Debug\Async_Await1.exe.config
-C:\Users\ramya\source\repos\HandsOn\Async_Await1\Async_Await1\bin\Debug\Async_Await1.exe
-C:\Users\ramya\source\repos\HandsOn\Async_Await1\Async_Await1\bin\Debug\Async_Await1.pdb
-C:\Users\ramya\source\repos\HandsOn\Async_Await1\Async_Await1\obj\Debug\Async_Await1.csprojAssemblyReference.cache
-C:\Users\ramya\source\repos\HandsOn\Async_Await1\Async_Await1\obj\Debug\Async_Await1.csproj.CoreCompileInputs.cache
-C:\Users\ramya\source\repos\HandsOn\Async_Await1\Async_Await1\obj\Debug\Async_Await1.exe
-C:\Users\ramya\source\repos\HandsOn\Async_Await1\Async_Await1\obj\Debug\Async_Await1.pdb

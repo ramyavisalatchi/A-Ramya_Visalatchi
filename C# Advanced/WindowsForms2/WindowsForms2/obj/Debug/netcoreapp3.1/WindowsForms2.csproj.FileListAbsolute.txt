@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.exe
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.deps.json
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.json
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csprojAssemblyReference.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.Form1.resources
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.GenerateResource.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.genruntimeconfig.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.Properties.Resources.resources

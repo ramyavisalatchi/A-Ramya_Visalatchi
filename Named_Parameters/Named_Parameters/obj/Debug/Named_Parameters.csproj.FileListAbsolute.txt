@@ -1,7 +1,0 @@
-C:\Users\ramya\source\repos\HandsOn\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.exe.config
-C:\Users\ramya\source\repos\HandsOn\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.exe
-C:\Users\ramya\source\repos\HandsOn\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.pdb
-C:\Users\ramya\source\repos\HandsOn\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.csprojAssemblyReference.cache
-C:\Users\ramya\source\repos\HandsOn\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.csproj.CoreCompileInputs.cache
-C:\Users\ramya\source\repos\HandsOn\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.exe
-C:\Users\ramya\source\repos\HandsOn\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.pdb

@@ -1,6 +1,0 @@
-C:\Users\ramya\source\repos\HandsOn\Optional_Parameter\Optional_Parameter\bin\Debug\Optional_Parameter.exe.config
-C:\Users\ramya\source\repos\HandsOn\Optional_Parameter\Optional_Parameter\bin\Debug\Optional_Parameter.exe
-C:\Users\ramya\source\repos\HandsOn\Optional_Parameter\Optional_Parameter\bin\Debug\Optional_Parameter.pdb
-C:\Users\ramya\source\repos\HandsOn\Optional_Parameter\Optional_Parameter\obj\Debug\Optional_Parameter.csproj.CoreCompileInputs.cache
-C:\Users\ramya\source\repos\HandsOn\Optional_Parameter\Optional_Parameter\obj\Debug\Optional_Parameter.exe
-C:\Users\ramya\source\repos\HandsOn\Optional_Parameter\Optional_Parameter\obj\Debug\Optional_Parameter.pdb

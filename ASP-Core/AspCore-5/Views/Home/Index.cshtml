@@ -1,0 +1,9 @@
+﻿@model IEnumerable<PartialViewHandson.Models.Employee>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @Html.Partial("_EmployeeTable", Model)
+
+</div>

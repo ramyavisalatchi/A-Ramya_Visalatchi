@@ -1,0 +1,15 @@
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\bin\Debug\netcoreapp3.1\WindowsForms1.exe
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\bin\Debug\netcoreapp3.1\WindowsForms1.deps.json
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\bin\Debug\netcoreapp3.1\WindowsForms1.runtimeconfig.json
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\bin\Debug\netcoreapp3.1\WindowsForms1.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\bin\Debug\netcoreapp3.1\WindowsForms1.dll
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\bin\Debug\netcoreapp3.1\WindowsForms1.pdb
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.Form1.resources
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.csproj.GenerateResource.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.AssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.dll
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.pdb
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.genruntimeconfig.cache
+C:\Users\ramya\source\repos\HandsOn\WindowsForms1\WindowsForms1\obj\Debug\netcoreapp3.1\WindowsForms1.csprojAssemblyReference.cache
