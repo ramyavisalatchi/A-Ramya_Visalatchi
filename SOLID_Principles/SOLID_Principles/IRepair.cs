@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SOLID_Principles
+{
+    public interface IRepair
+    {
+        void ProcessPhoneRepair(string modelName);
+        void ProcessAccessoryRepair(string accessoryType);
+    }
+}

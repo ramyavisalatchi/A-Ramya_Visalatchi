@@ -1,0 +1,7 @@
+C:\Users\ramya\source\repos\HandsOn\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+C:\Users\ramya\source\repos\HandsOn\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\ramya\source\repos\HandsOn\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\ramya\source\repos\HandsOn\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\ramya\source\repos\HandsOn\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\ramya\source\repos\HandsOn\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb
