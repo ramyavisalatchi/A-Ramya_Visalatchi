@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramya\\source\\repos\\HandsOn\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj": {}
+    "C:\\Users\\ramya\\Documents\\GitHub\\A-Ramya_Visalatchi\\Design Patterns\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramya\\source\\repos\\HandsOn\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj": {
+    "C:\\Users\\ramya\\Documents\\GitHub\\A-Ramya_Visalatchi\\Design Patterns\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramya\\source\\repos\\HandsOn\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\ramya\\Documents\\GitHub\\A-Ramya_Visalatchi\\Design Patterns\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj",
         "projectName": "Day2_HandsOn1_Singleton",
-        "projectPath": "C:\\Users\\ramya\\source\\repos\\HandsOn\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj",
+        "projectPath": "C:\\Users\\ramya\\Documents\\GitHub\\A-Ramya_Visalatchi\\Design Patterns\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton.csproj",
         "packagesPath": "C:\\Users\\ramya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramya\\source\\repos\\HandsOn\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\obj\\",
+        "outputPath": "C:\\Users\\ramya\\Documents\\GitHub\\A-Ramya_Visalatchi\\Design Patterns\\Day2_HandsOn1_Singleton\\Day2_HandsOn1_Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
