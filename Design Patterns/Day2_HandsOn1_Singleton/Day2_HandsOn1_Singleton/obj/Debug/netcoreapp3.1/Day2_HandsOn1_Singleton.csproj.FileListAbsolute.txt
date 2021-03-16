@@ -1,0 +1,13 @@
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\bin\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.exe
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\bin\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.deps.json
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\bin\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.runtimeconfig.json
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\bin\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\bin\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.dll
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\bin\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.pdb
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\obj\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.csprojAssemblyReference.cache
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\obj\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\obj\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.AssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\obj\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\obj\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.dll
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\obj\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.pdb
+C:\Users\ramya\source\repos\HandsOn\Day2_HandsOn1_Singleton\Day2_HandsOn1_Singleton\obj\Debug\netcoreapp3.1\Day2_HandsOn1_Singleton.genruntimeconfig.cache
