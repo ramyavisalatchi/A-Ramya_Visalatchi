@@ -1,0 +1,13 @@
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\obj\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.csprojAssemblyReference.cache
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\obj\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\obj\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.AssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\obj\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\bin\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.exe
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\bin\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.deps.json
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\bin\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.runtimeconfig.json
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\bin\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\bin\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.dll
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\bin\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.pdb
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\obj\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.dll
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\obj\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.pdb
+C:\Users\ramya\source\repos\HandsOn\Day2_Handson2_AbstractFactory\Day2_Handson2_AbstractFactory\obj\Debug\netcoreapp3.1\Day2_Handson2_AbstractFactory.genruntimeconfig.cache
