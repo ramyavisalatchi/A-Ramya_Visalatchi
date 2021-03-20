@@ -1,0 +1,13 @@
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.exe
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.deps.json
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.json
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csprojAssemblyReference.cache
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Users\ramya\source\repos\HandsOn\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.genruntimeconfig.cache

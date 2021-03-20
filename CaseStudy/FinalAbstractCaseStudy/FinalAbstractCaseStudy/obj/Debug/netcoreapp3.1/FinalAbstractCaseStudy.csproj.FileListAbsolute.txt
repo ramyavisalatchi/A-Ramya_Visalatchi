@@ -1,0 +1,26 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.csprojAssemblyReference.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.AssemblyInfoInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.AssemblyInfo.cs
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.deps.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.runtimeconfig.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.runtimeconfig.dev.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.genruntimeconfig.cache
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.exe
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.deps.json
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.runtimeconfig.json
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.dll
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\bin\Debug\netcoreapp3.1\FinalAbstractCaseStudy.pdb
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.csprojAssemblyReference.cache
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.AssemblyInfo.cs
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.dll
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.pdb
+C:\Users\ramya\source\repos\HandsOn\Case Study\FinalAbstractCaseStudy\FinalAbstractCaseStudy\obj\Debug\netcoreapp3.1\FinalAbstractCaseStudy.genruntimeconfig.cache

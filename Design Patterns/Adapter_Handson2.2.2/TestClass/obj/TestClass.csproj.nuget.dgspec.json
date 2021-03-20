@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\TestClass\\TestClass.csproj": {}
+  },
+  "projects": {
+    "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\Adapter\\Adapter.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\Adapter\\Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\Adapter\\Adapter.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\TestClass\\TestClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\TestClass\\TestClass.csproj",
+        "projectName": "TestClass",
+        "projectPath": "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\TestClass\\TestClass.csproj",
+        "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
+        "outputPath": "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\TestClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\Adapter\\Adapter.csproj": {
+                "projectPath": "F:\\Users\\Levi\\Downloads\\Adapter_Handson2.2.2\\Adapter_Handson2.2.2\\Adapter\\Adapter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.VisualStudio.UnitTesting": {
+              "target": "Package",
+              "version": "[11.0.50727.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "NUnitTestAdapter": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
